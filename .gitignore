@@ -1,0 +1,4 @@
+venv
+haarcascade_frontalface_default.xml
+facenet512_weights.h5
+vgg_face_weights.h5
